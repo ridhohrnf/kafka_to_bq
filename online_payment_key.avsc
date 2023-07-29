@@ -1,0 +1,6 @@
+{
+	"namespace": "com.example.avro",
+	"type": "record",
+	"name": "ApplicationFraud",
+	"fields": [{ "name": "step", "type": "int" }]
+}
